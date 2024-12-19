@@ -72,7 +72,8 @@ Se introducen opciones adicionales y ajustes para una experiencia más completa 
   - Nuevo botón "Aceptar" que aparece al completar la descarga.
   - FFmpeg (integrado con yt-dlp): Para convertir el audio descargado a formato MP3 con calidad específica.
  
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+_________________________________________________________________________________________________________________________________________________________________________
+
 
 -YouTube-Video-Download-Program-
 Python project, implementing [yt-dlp | Tkinter | FFmpeg] to develop a YouTube video download application.
@@ -86,6 +87,8 @@ Features:
 - Download videos in the best available quality.
 - Downloaded file with a fixed name: Video_Descargado.mp4.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Version 0.2
 Description
 A basic graphical user interface (GUI) is implemented using Tkinter, simplifying the application for non-technical users.
@@ -94,6 +97,8 @@ Features:
 - Video link input and destination folder selection through the GUI.
 - Download button to start the operation.
 - Progress bar to display download progress.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Version 0.3
 Description
@@ -106,6 +111,8 @@ Features:
   - Progress bar in orange color.
   - More attractive and consistent style for buttons and text.
 - Clear messages to inform about the download status.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Version 0.4
 Description
@@ -120,26 +127,26 @@ Features:
 - "Accept" button that appears when the download is completed, allowing the application to close.
 
 List of Libraries used in different versions:
-Version 0.1
-- yt-dlp: Used to handle YouTube video downloads.
+- Version 0.1
+  - yt-dlp: Used to handle YouTube video downloads.
 
-Version 0.2
-- yt-dlp: Remains the main library for downloads.
-- Tkinter: Used to create the basic graphical user interface, allowing users to enter links and select folders.
+- Version 0.2
+  - yt-dlp: Remains the main library for downloads.
+  - Tkinter: Used to create the basic graphical user interface, allowing users to enter links and select folders.
 
-Version 0.3
-- yt-dlp: Still used for download functionality.
-- Tkinter: Enhanced with additional styles and functionalities such as:
-  - Progress bar to display download progress.
-  - Automatic centering of the window.
-  - Visual improvements in colors and button styles.
+- Version 0.3
+  - yt-dlp: Still used for download functionality.
+  - Tkinter: Enhanced with additional styles and functionalities such as:
+    - Progress bar to display download progress.
+    - Automatic centering of the window.
+    - Visual improvements in colors and button styles.
 
-Version 0.4
-- yt-dlp: Extended to support audio-only downloads.
-- Tkinter: Expanded to include:
-  - Support for a customizable interface with dark colors and white text.
-  - New "Accept" button that appears upon download completion.
-- FFmpeg (integrated with yt-dlp): To convert the downloaded audio into MP3 format with specific quality.
+- Version 0.4
+  - yt-dlp: Extended to support audio-only downloads.
+  - Tkinter: Expanded to include:
+    - Support for a customizable interface with dark colors and white text.
+    - New "Accept" button that appears upon download completion.
+  - FFmpeg (integrated with yt-dlp): To convert the downloaded audio into MP3 format with specific quality.
 
 
 
