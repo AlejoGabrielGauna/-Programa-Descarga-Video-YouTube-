@@ -53,7 +53,7 @@ Se introducen opciones adicionales y ajustes para una experiencia más completa 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-###Lista de Librerias usadas en las diferentes versiones:
+# Lista de Librerias usadas en las diferentes versiones:
 - Versión 0.1
   - yt-dlp: Utilizada para manejar la descarga de videos de YouTube.
 - Versión 0.2
