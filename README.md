@@ -54,18 +54,18 @@ Se introducen opciones adicionales y ajustes para una experiencia más completa 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ###Lista de Librerias usadas en las diferentes versiones:
---Versión 0.1
+- Versión 0.1
   - yt-dlp: Utilizada para manejar la descarga de videos de YouTube.
---Versión 0.2
+- Versión 0.2
   - yt-dlp: Sigue siendo la biblioteca principal para las descargas.
   - Tkinter: Utilizada para crear la interfaz gráfica básica, permitiendo al usuario ingresar enlaces y seleccionar carpetas.
---Versión 0.3
+- Versión 0.3
   - yt-dlp: Continua siendo utilizada para la funcionalidad de descarga.
   - Tkinter: Mejorada con estilos adicionales y funcionalidades como:
   - Barra de progreso para mostrar el avance de la descarga.
   - Centrado automático de la ventana.
   - Mejoras visuales en colores y estilos de botones.
---Versión 0.4
+- Versión 0.4
   - yt-dlp: Extendida para soportar la descarga de solo audio.
   - Tkinter: Ampliada para:
   - Soporte de interfaz personalizable con colores oscuros y texto blanco.
