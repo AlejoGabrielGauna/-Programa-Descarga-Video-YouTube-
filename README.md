@@ -4,7 +4,7 @@ Proyecto de Python, implementando las [yt-dlp | Tkinter | FFmpeg] para desarroll
 
 # Descargador de YouTube
 
-## Versión 0.1
+## Versión 1.0
 ### Descripción
 Esta versión inicial permite la descarga de videos desde YouTube utilizando la biblioteca **yt-dlp** en Python. 
 
@@ -14,7 +14,7 @@ Esta versión inicial permite la descarga de videos desde YouTube utilizando la 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Versión 0.2
+## Versión 1.1
 ### Descripción
 Se implementa una interfaz gráfica de usuario (GUI) básica utilizando **Tkinter**, simplificando el uso de la aplicación para usuarios no técnicos.
 
@@ -25,7 +25,7 @@ Se implementa una interfaz gráfica de usuario (GUI) básica utilizando **Tkinte
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Versión 0.3
+## Versión 1.2
 ### Descripción
 La interfaz se mejora con nuevas funcionalidades y ajustes de diseño.
 
@@ -39,7 +39,7 @@ La interfaz se mejora con nuevas funcionalidades y ajustes de diseño.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Versión 0.4
+## Versión 1.3
 ### Descripción
 Se introducen opciones adicionales y ajustes para una experiencia más completa y funcional.
 
@@ -54,18 +54,18 @@ Se introducen opciones adicionales y ajustes para una experiencia más completa 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Lista de Librerias usadas en las diferentes versiones:
-- Versión 0.1
+- Versión 1.0
   - yt-dlp: Utilizada para manejar la descarga de videos de YouTube.
-- Versión 0.2
+- Versión 1.1
   - yt-dlp: Sigue siendo la biblioteca principal para las descargas.
   - Tkinter: Utilizada para crear la interfaz gráfica básica, permitiendo al usuario ingresar enlaces y seleccionar carpetas.
-- Versión 0.3
+- Versión 1.2
   - yt-dlp: Continua siendo utilizada para la funcionalidad de descarga.
   - Tkinter: Mejorada con estilos adicionales y funcionalidades como:
   - Barra de progreso para mostrar el avance de la descarga.
   - Centrado automático de la ventana.
   - Mejoras visuales en colores y estilos de botones.
-- Versión 0.4
+- Versión 1.3
   - yt-dlp: Extendida para soportar la descarga de solo audio.
   - Tkinter: Ampliada para:
   - Soporte de interfaz personalizable con colores oscuros y texto blanco.
@@ -79,7 +79,7 @@ ________________________________________________________________________________
 Python project, implementing [yt-dlp | Tkinter | FFmpeg] to develop a YouTube video download application.
 
 YouTube Downloader
-Version 0.1
+Version 1.0
 Description
 This initial version allows downloading videos from YouTube using the yt-dlp library in Python.
 
@@ -89,7 +89,7 @@ Features:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Version 0.2
+Version 1.1
 Description
 A basic graphical user interface (GUI) is implemented using Tkinter, simplifying the application for non-technical users.
 
@@ -100,7 +100,7 @@ Features:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Version 0.3
+Version 1.2
 Description
 The interface is enhanced with new functionalities and design adjustments.
 
@@ -114,7 +114,7 @@ Features:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Version 0.4
+Version 1.3
 Description
 Additional options and adjustments are introduced for a more complete and functional experience.
 
@@ -127,21 +127,21 @@ Features:
 - "Accept" button that appears when the download is completed, allowing the application to close.
 
 List of Libraries used in different versions:
-- Version 0.1
+- Version 1.0
   - yt-dlp: Used to handle YouTube video downloads.
 
-- Version 0.2
+- Version 1.1
   - yt-dlp: Remains the main library for downloads.
   - Tkinter: Used to create the basic graphical user interface, allowing users to enter links and select folders.
 
-- Version 0.3
+- Version 1.2
   - yt-dlp: Still used for download functionality.
   - Tkinter: Enhanced with additional styles and functionalities such as:
     - Progress bar to display download progress.
     - Automatic centering of the window.
     - Visual improvements in colors and button styles.
 
-- Version 0.4
+- Version 1.3
   - yt-dlp: Extended to support audio-only downloads.
   - Tkinter: Expanded to include:
     - Support for a customizable interface with dark colors and white text.
